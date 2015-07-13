@@ -30,7 +30,7 @@
 /*
 example of usage (note that this might not look pretty on auto indendation),
 
-  #include "macroopts.h"
+  #include "macroopt.h"
   int
   main (int argc, char **argv)
   {
